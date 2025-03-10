@@ -42,14 +42,14 @@ About: Provides information about the team and the platform's goals.
 Contact: Displays contact information for inquiries.
 Users can click on the navigation links to smoothly scroll to the respective sections.
 
-Live Demo
+###   Live Demo
 You can view the live demo of the landing page at https://d2awk858m47b61.cloudfront.net.
 
-Contributing
+###   Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-License
+###   License
 This project is licensed under the GPL License - see the LICENSE file for details.
 
-Acknowledgments
+###   Acknowledgments
 Special thanks to the creators of Bootstrap and Google Fonts for their excellent resources that enhance web development.
