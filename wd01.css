@@ -1,0 +1,78 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+.navbar {
+    background: transparent;
+    transition: background 0.4s ease-in-out;
+    padding: 15px;
+}
+.navbar.scrolled {
+    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand img {
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+.navbar-nav .nav-link {
+    color: white;
+    font-size: 18px;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+.navbar-nav .nav-link:hover {
+    color: #ffc107;
+}
+.section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+#Home {
+    background: linear-gradient(135deg, #0F2027, #203A43, #2C5364);
+}
+#Features {
+    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+}
+#About {
+    background: linear-gradient(135deg, #232526, #414345);
+}
+#Contact {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+}
+button {
+    background-color: #FFD700;
+    border: 0;
+    color: #333;
+    font-weight: 600;
+    padding: 12px 24px;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out;
+}
+button:hover {
+    background: #FF4C4C;
+    color: white;
+}
+footer {
+    color: white;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 15px;
+    text-align: center;
+    font-size: 16px;
+}
+.hh { color: #00D4FF; }
+.hp { color: #E0E0E0; }
+.fh { color: #FFD700; }
+.fp { color: #FFFFFF; }
+.ah { color: #FFFFFF; }
+.ap { color: #CCCCCC; }
+.ch { color: #80FFDB; }
+.cp { color: #EAEAEA; }
