@@ -28,10 +28,9 @@ The EchoElite Landing Page is a sleek, modern web interface designed for the Ech
 Navigate to the project directory:
 
 bash
-Copy
-Edit
+
 cd PRODIGY_WD_01
-Open index.html in your web browser to view the landing page.
+Open wd01.html in your web browser to view the landing page.
 
 Usage
 The landing page is divided into multiple sections:
