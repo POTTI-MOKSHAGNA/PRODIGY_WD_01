@@ -24,15 +24,11 @@ The EchoElite Landing Page is a sleek, modern web interface designed for the Ech
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/POTTI-MOKSHAGNA/PRODIGY_WD_01.git
-Navigate to the project directory:
-
-   ```bash
-      cd PRODIGY_WD_01
+   git clone https://github.com/POTTI-MOKSHAGNA/PRODIGY_WD_01.git && cd PRODIGY_WD_01
 
 Open wd01.html in your web browser to view the landing page.
 
-Usage
+###   Usage
 The landing page is divided into multiple sections:
 
 Home: Welcomes users to EchoElite and introduces its mission.
